@@ -3,6 +3,7 @@
 ## Description:
  This is a program to convert jpg format images to png using PIL module in py3
  Modules used: SYS , OS , PIL
+ (install modules, if required)
 ## Instructions:
 1) Download jpgtopng.py file
 2) Download Pokedox folder as a sample case or use your own JPG image folder
